@@ -35,6 +35,7 @@ class Pessoa {
     descreva(){
         console.log(`Meu nome é ${prop.nome}, minha idade é ${this.idade} e o meu sexo é ${this.sexo}`)
     }
+    
 }
 
 function compararPessoa(p1,p2){
